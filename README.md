@@ -52,11 +52,11 @@ This project represents one of my first practical steps toward combining mathema
 
 ### Program Source Code
 
-![Source Code](source_code.png)
+![Source Code](IMG-20260614-WA0038.jpg)
 
 ### Program Output
 
-![Program Output](program_output.png)
+![Program Output](IMG-20260614-WA0040.jpg)
 
 
 ## Author
